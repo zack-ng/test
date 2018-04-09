@@ -1,1 +1,16 @@
-announcement.json
+{
+    "forceVisible" : true,
+    "content" : [
+        {
+            "title" : "AI capability",
+            "body" : "<img src="...img/> <p>Our AI will now inform you which products underperform! Just kidding.</p>",
+            "position" : 1
+        },
+        {
+            "title" : "Chatbot",
+            "body" : "<h1>If you heard of Siri, you will understand this. Ask our chatbot any questions like 'Will you buy this product?' and get a smart response.</h1>",
+            "position" : 2
+        }
+        ]
+    
+}
