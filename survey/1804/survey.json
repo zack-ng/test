@@ -1,0 +1,41 @@
+{
+	"forceVisible": true,
+	"content": [{
+			"title": "What do you think of this survey?",
+			"type": "select",
+			"choice": [{
+					"title": "Excellent",
+					"value": "excellent"
+				},
+				{
+					"title": "Outstanding",
+					"value": "outstanding"
+				},
+				{
+					"title": "Great",
+					"value": "great"
+				}
+			],
+			"position": "1"
+		},
+		{
+			"title": "What do you think of doing another survey?",
+			"type": "select",
+			"choice": [{
+					"title": "Lets do it!",
+					"value": "lets_do_it"
+				},
+				{
+					"title": "Bring it on",
+					"value": "bring_it_on"
+				},
+				{
+					"title": "Nah",
+					"value": "no"
+				}
+			],
+			"position": "1"
+		}
+	]
+
+}
