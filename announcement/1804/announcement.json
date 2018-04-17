@@ -2,8 +2,8 @@
     "forceVisible" : true,
     "content" : [
          {
-            "title" : "What's New in 1804",
-            "body" : "<p><img src='https://images.pexels.com/photos/327186/pexels-photo-327186.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260' /></p><p>Improved Search Algorithm and UI. We hear you! Now you are able to search for something quickly in the dashboard. Feature is included in this version for free.</p><p>fafafeaf</p>",
+            "title" : "OUr New Feature is Launched!",
+            "body" : "<p><button>Blog</button><img src='https://images.pexels.com/photos/327186/pexels-photo-327186.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260' /></p><p>Improved Search Algorithm and UI. We hear you! Now you are able to search for something quickly in the dashboard. Feature is included in this version for free.</p><p>fafafeaf</p>",
             "position" : 1
         },
         {
